@@ -3,4 +3,4 @@ buildpack: java_buildpack_offline
 applications:
 - name: pal-tracker
   path: build/libs/pal-tracker.jar
-  host: chintanp-pal-tracker-production
+  host: hopefully-no-one-is-using-prod-pal-tracker-production
